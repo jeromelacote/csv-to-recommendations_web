@@ -1,0 +1,7 @@
+streamlit
+pandas
+cloudinary
+pymysql
+tqdm
+stqdm
+pillow
